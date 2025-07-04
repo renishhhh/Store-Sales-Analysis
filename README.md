@@ -26,7 +26,7 @@ This analysis helps the shop to:
 - Plan better during busy times  
 - Make offers or discounts based on data  
 - Give faster and better service to customers
-- 
+ 
 ## Features
 
 - Exploratory Data Analysis (EDA)
