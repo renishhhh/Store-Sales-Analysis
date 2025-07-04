@@ -1,0 +1,688 @@
+Amount,Category,Order ID,Payment Mode,Profit,Quantity,Customer Name,Sub Category,Order Date,Area
+708,Households,1001,Cash,106.2,8,Hetal Desai,Ironing,2025-01-06,Balewadi
+421,Households,1002,Cash,63.15,7,Nirali Shah,Ironing,2024-07-26,Sus
+358,Womens,1003,Card,53.7,15,Aarti Kulkarni,Ironing,2024-06-23,Baner
+898,Mens,1004,Card,89.8,12,Aarti Kulkarni,Premium Wash,2024-07-28,Balewadi
+613,Mens,1005,Card,73.56,13,Rajesh Mehta,Laundry,2024-12-28,Balewadi
+636,Womens,1006,Online Payment,95.4,8,Suresh Jadhav,Ironing,2024-10-03,Mahalunge
+930,Womens,1007,Card,111.6,3,Nirali Shah,Laundry,2024-07-21,Baner
+307,Womens,1008,Card,46.05,5,Nirali Shah,Ironing,2025-02-07,Hinjewadi
+425,Households,1009,Cash,63.75,8,Nilesh Shinde,Ironing,2025-03-03,Mahalunge
+825,Mens,1010,Cash,123.75,10,Amit Patel,Ironing,2024-12-04,Mahalunge
+347,Households,1011,Cash,52.05,13,Nirali Shah,Ironing,2024-09-06,Baner
+108,Mens,1012,Online Payment,12.96,12,Kirit Joshi,Laundry,2024-12-10,Balewadi
+811,Mens,1013,Online Payment,81.1,7,Rajesh Mehta,Premium Wash,2024-10-26,Baner
+610,Mens,1014,Card,73.2,10,Suresh Jadhav,Laundry,2024-06-25,Hinjewadi
+808,Mens,1015,Online Payment,96.96,16,Aarti Kulkarni,Laundry,2024-08-27,Hinjewadi
+646,Mens,1016,Cash,116.28,12,Hetal Desai,Dry Cleaning,2024-12-30,Sus
+663,Womens,1017,Online Payment,79.56,6,Suresh Jadhav,Laundry,2024-08-03,Balewadi
+301,Households,1018,Cash,36.12,2,Hetal Desai,Laundry,2025-01-15,Balewadi
+916,Mens,1019,Online Payment,91.6,18,Vikram Patil,Premium Wash,2024-07-15,Mahalunge
+800,Mens,1020,Cash,80.0,9,Kirit Joshi,Premium Wash,2025-03-10,Balewadi
+497,Households,1021,Cash,59.64,6,Kirit Joshi,Laundry,2024-11-09,Balewadi
+823,Womens,1022,Cash,82.3,7,Amit Patel,Premium Wash,2024-06-11,Balewadi
+290,Households,1023,Card,34.8,8,Kirit Joshi,Laundry,2024-11-10,Mahalunge
+444,Households,1024,Online Payment,66.6,11,Nirali Shah,Ironing,2025-02-22,Mahalunge
+386,Households,1025,Online Payment,57.9,9,Smita Deshmukh,Ironing,2025-01-31,Mahalunge
+352,Womens,1026,Online Payment,52.8,17,Kirit Joshi,Ironing,2024-12-11,Balewadi
+266,Womens,1027,Online Payment,47.88,1,Rajesh Mehta,Dry Cleaning,2024-10-21,Baner
+887,Households,1028,Card,88.7,15,Aarti Kulkarni,Premium Wash,2025-01-06,Balewadi
+674,Mens,1029,Card,101.1,2,Rajesh Mehta,Ironing,2024-10-20,Mahalunge
+717,Mens,1030,Online Payment,71.7,7,Nirali Shah,Premium Wash,2024-11-13,Sus
+649,Womens,1031,Cash,77.88,13,Rajesh Mehta,Laundry,2024-06-11,Baner
+563,Households,1032,Online Payment,84.45,8,Smita Deshmukh,Ironing,2024-11-28,Balewadi
+245,Mens,1033,Cash,36.75,12,Nilesh Shinde,Ironing,2025-03-31,Balewadi
+510,Households,1034,Card,51.0,17,Smita Deshmukh,Premium Wash,2024-08-26,Baner
+917,Households,1035,Online Payment,91.7,1,Hetal Desai,Premium Wash,2025-03-27,Balewadi
+588,Mens,1036,Online Payment,70.56,17,Rajesh Mehta,Laundry,2025-01-04,Baner
+582,Households,1037,Cash,104.76,15,Vikram Patil,Dry Cleaning,2025-01-28,Balewadi
+979,Mens,1038,Online Payment,146.85,14,Aarti Kulkarni,Ironing,2024-08-30,Balewadi
+311,Womens,1039,Online Payment,31.1,12,Hetal Desai,Premium Wash,2024-08-26,Baner
+688,Households,1040,Card,103.2,12,Amit Patel,Ironing,2024-07-26,Balewadi
+458,Womens,1041,Cash,68.7,7,Suresh Jadhav,Ironing,2024-11-13,Baner
+860,Mens,1042,Cash,86.0,6,Nilesh Shinde,Premium Wash,2025-03-18,Sus
+982,Womens,1043,Online Payment,98.2,19,Vikram Patil,Premium Wash,2025-03-03,Mahalunge
+931,Mens,1044,Online Payment,111.72,1,Rajesh Mehta,Laundry,2025-03-07,Balewadi
+831,Mens,1045,Cash,124.65,1,Kirit Joshi,Ironing,2024-08-21,Balewadi
+273,Womens,1046,Online Payment,27.3,20,Hetal Desai,Premium Wash,2024-06-22,Baner
+427,Mens,1047,Cash,64.05,11,Smita Deshmukh,Ironing,2025-01-23,Hinjewadi
+761,Womens,1048,Cash,136.98,8,Suresh Jadhav,Dry Cleaning,2024-07-31,Mahalunge
+381,Mens,1049,Cash,57.15,6,Kirit Joshi,Ironing,2024-09-25,Hinjewadi
+910,Households,1050,Card,163.8,13,Amit Patel,Dry Cleaning,2024-12-20,Balewadi
+715,Households,1051,Online Payment,107.25,17,Vikram Patil,Ironing,2024-11-02,Balewadi
+953,Mens,1052,Online Payment,142.95,10,Hetal Desai,Ironing,2025-03-03,Hinjewadi
+424,Womens,1053,Online Payment,50.88,12,Hetal Desai,Laundry,2025-03-24,Balewadi
+830,Womens,1054,Online Payment,149.4,13,Aarti Kulkarni,Dry Cleaning,2024-06-17,Balewadi
+261,Mens,1055,Cash,31.32,16,Kirit Joshi,Laundry,2024-07-16,Baner
+805,Womens,1056,Cash,96.6,17,Nirali Shah,Laundry,2025-02-17,Balewadi
+610,Mens,1057,Online Payment,91.5,13,Suresh Jadhav,Ironing,2024-11-30,Mahalunge
+821,Womens,1058,Card,98.52,4,Rajesh Mehta,Laundry,2025-01-21,Baner
+212,Womens,1059,Card,25.44,3,Nilesh Shinde,Laundry,2024-11-04,Mahalunge
+334,Womens,1060,Cash,60.12,11,Aarti Kulkarni,Dry Cleaning,2024-09-14,Hinjewadi
+447,Households,1061,Online Payment,44.7,13,Kirit Joshi,Premium Wash,2025-02-24,Mahalunge
+486,Households,1062,Card,48.6,14,Kirit Joshi,Premium Wash,2025-02-10,Mahalunge
+945,Mens,1063,Online Payment,141.75,2,Rajesh Mehta,Ironing,2024-09-08,Mahalunge
+955,Mens,1064,Online Payment,114.6,3,Amit Patel,Laundry,2024-07-09,Balewadi
+273,Mens,1065,Cash,49.14,16,Nilesh Shinde,Dry Cleaning,2024-11-19,Baner
+516,Womens,1066,Online Payment,61.92,6,Rajesh Mehta,Laundry,2024-09-14,Mahalunge
+992,Mens,1067,Card,119.04,9,Vikram Patil,Laundry,2025-03-24,Balewadi
+184,Households,1068,Card,18.4,6,Hetal Desai,Premium Wash,2025-02-21,Baner
+219,Womens,1069,Cash,39.42,19,Smita Deshmukh,Dry Cleaning,2025-03-15,Hinjewadi
+777,Womens,1070,Cash,77.7,20,Rajesh Mehta,Premium Wash,2024-09-12,Mahalunge
+456,Households,1071,Online Payment,54.72,17,Vikram Patil,Laundry,2024-09-07,Balewadi
+121,Households,1072,Online Payment,18.15,14,Kirit Joshi,Ironing,2024-08-22,Baner
+355,Womens,1073,Cash,42.6,5,Nirali Shah,Laundry,2025-02-15,Balewadi
+974,Households,1074,Cash,146.1,16,Suresh Jadhav,Ironing,2024-06-07,Hinjewadi
+990,Households,1075,Online Payment,178.2,15,Smita Deshmukh,Dry Cleaning,2024-06-08,Mahalunge
+328,Households,1076,Online Payment,49.2,5,Suresh Jadhav,Ironing,2024-07-23,Hinjewadi
+348,Households,1077,Cash,34.8,10,Rajesh Mehta,Premium Wash,2025-01-10,Hinjewadi
+937,Mens,1078,Card,93.7,6,Hetal Desai,Premium Wash,2024-11-29,Sus
+370,Womens,1079,Card,44.4,4,Nirali Shah,Laundry,2025-01-26,Balewadi
+171,Mens,1080,Cash,20.52,11,Hetal Desai,Laundry,2024-07-26,Mahalunge
+531,Womens,1081,Card,63.72,14,Vikram Patil,Laundry,2025-01-18,Balewadi
+531,Mens,1082,Online Payment,79.65,1,Suresh Jadhav,Ironing,2024-10-30,Baner
+277,Households,1083,Card,33.24,10,Smita Deshmukh,Laundry,2025-01-13,Hinjewadi
+163,Households,1084,Online Payment,24.45,2,Aarti Kulkarni,Ironing,2025-03-24,Hinjewadi
+532,Households,1085,Online Payment,79.8,10,Suresh Jadhav,Ironing,2024-10-31,Baner
+427,Womens,1086,Card,76.86,3,Aarti Kulkarni,Dry Cleaning,2024-08-08,Baner
+820,Womens,1087,Online Payment,123.0,10,Vikram Patil,Ironing,2024-08-26,Balewadi
+696,Mens,1088,Online Payment,104.4,3,Nilesh Shinde,Ironing,2024-09-26,Balewadi
+921,Womens,1089,Online Payment,138.15,1,Nilesh Shinde,Ironing,2024-07-22,Balewadi
+878,Womens,1090,Cash,158.04,10,Hetal Desai,Dry Cleaning,2024-07-23,Balewadi
+875,Mens,1091,Cash,157.5,4,Rajesh Mehta,Dry Cleaning,2024-07-09,Baner
+314,Households,1092,Online Payment,56.52,7,Aarti Kulkarni,Dry Cleaning,2025-01-13,Baner
+559,Households,1093,Card,83.85,17,Hetal Desai,Ironing,2024-12-06,Balewadi
+963,Households,1094,Online Payment,144.45,14,Nilesh Shinde,Ironing,2024-10-18,Balewadi
+269,Womens,1095,Cash,40.35,7,Nirali Shah,Ironing,2024-08-12,Baner
+183,Households,1096,Online Payment,18.3,7,Smita Deshmukh,Premium Wash,2024-06-05,Hinjewadi
+380,Womens,1097,Card,57.0,15,Suresh Jadhav,Ironing,2024-10-25,Baner
+953,Households,1098,Online Payment,114.36,7,Nilesh Shinde,Laundry,2024-08-01,Balewadi
+397,Mens,1099,Cash,39.7,16,Suresh Jadhav,Premium Wash,2024-12-21,Balewadi
+464,Womens,1100,Card,83.52,7,Hetal Desai,Dry Cleaning,2024-12-17,Baner
+647,Households,1101,Cash,97.05,14,Nirali Shah,Ironing,2025-03-03,Hinjewadi
+758,Womens,1102,Cash,113.7,12,Aarti Kulkarni,Ironing,2025-01-25,Balewadi
+997,Womens,1103,Cash,149.55,13,Rajesh Mehta,Ironing,2024-12-25,Sus
+457,Mens,1104,Cash,68.55,15,Nirali Shah,Ironing,2025-01-05,Baner
+500,Mens,1105,Online Payment,50.0,8,Kirit Joshi,Premium Wash,2024-11-17,Balewadi
+173,Households,1106,Card,31.14,11,Vikram Patil,Dry Cleaning,2024-11-18,Baner
+530,Womens,1107,Cash,95.4,3,Aarti Kulkarni,Dry Cleaning,2024-11-23,Balewadi
+372,Mens,1108,Card,44.64,19,Nirali Shah,Laundry,2024-07-12,Hinjewadi
+588,Households,1109,Card,88.2,9,Hetal Desai,Ironing,2024-07-13,Balewadi
+316,Mens,1110,Cash,56.88,5,Kirit Joshi,Dry Cleaning,2025-02-07,Balewadi
+492,Womens,1111,Cash,73.8,7,Nilesh Shinde,Ironing,2024-11-26,Baner
+642,Womens,1112,Online Payment,96.3,19,Suresh Jadhav,Ironing,2024-11-01,Balewadi
+481,Mens,1113,Card,72.15,17,Hetal Desai,Ironing,2024-10-26,Balewadi
+441,Mens,1114,Online Payment,52.92,18,Vikram Patil,Laundry,2024-09-20,Hinjewadi
+595,Households,1115,Card,89.25,9,Nilesh Shinde,Ironing,2025-02-05,Hinjewadi
+647,Womens,1116,Online Payment,64.7,3,Nilesh Shinde,Premium Wash,2024-06-06,Balewadi
+369,Households,1117,Online Payment,44.28,11,Kirit Joshi,Laundry,2024-10-05,Balewadi
+963,Womens,1118,Card,144.45,12,Nirali Shah,Ironing,2024-11-02,Mahalunge
+205,Households,1119,Cash,20.5,14,Hetal Desai,Premium Wash,2024-12-02,Sus
+799,Mens,1120,Cash,79.9,3,Nirali Shah,Premium Wash,2024-12-23,Hinjewadi
+614,Mens,1121,Cash,73.68,16,Suresh Jadhav,Laundry,2024-12-13,Hinjewadi
+601,Mens,1122,Card,72.12,13,Smita Deshmukh,Laundry,2024-08-19,Hinjewadi
+101,Mens,1123,Online Payment,18.18,12,Kirit Joshi,Dry Cleaning,2024-12-17,Balewadi
+237,Womens,1124,Card,23.7,16,Vikram Patil,Premium Wash,2024-07-14,Hinjewadi
+641,Households,1125,Cash,64.1,17,Suresh Jadhav,Premium Wash,2024-09-30,Sus
+754,Womens,1126,Cash,75.4,1,Rajesh Mehta,Premium Wash,2025-03-03,Baner
+965,Womens,1127,Online Payment,115.8,11,Aarti Kulkarni,Laundry,2024-11-28,Baner
+828,Households,1128,Cash,82.8,20,Aarti Kulkarni,Premium Wash,2024-07-03,Baner
+180,Mens,1129,Cash,32.4,2,Nirali Shah,Dry Cleaning,2024-08-31,Hinjewadi
+277,Womens,1130,Online Payment,41.55,14,Vikram Patil,Ironing,2024-07-17,Baner
+558,Mens,1131,Online Payment,100.44,6,Nirali Shah,Dry Cleaning,2025-03-31,Mahalunge
+559,Womens,1132,Cash,83.85,11,Aarti Kulkarni,Ironing,2024-10-22,Balewadi
+393,Womens,1133,Cash,39.3,18,Nilesh Shinde,Premium Wash,2024-08-14,Baner
+478,Mens,1134,Cash,47.8,3,Smita Deshmukh,Premium Wash,2024-09-07,Balewadi
+291,Womens,1135,Online Payment,43.65,19,Nirali Shah,Ironing,2024-10-02,Hinjewadi
+209,Households,1136,Online Payment,37.62,9,Hetal Desai,Dry Cleaning,2025-02-09,Balewadi
+738,Womens,1137,Cash,73.8,3,Kirit Joshi,Premium Wash,2024-08-03,Hinjewadi
+892,Womens,1138,Online Payment,160.56,5,Suresh Jadhav,Dry Cleaning,2024-11-04,Hinjewadi
+490,Households,1139,Cash,73.5,7,Rajesh Mehta,Ironing,2024-08-18,Balewadi
+419,Womens,1140,Card,41.9,5,Nilesh Shinde,Premium Wash,2024-12-14,Baner
+336,Mens,1141,Cash,40.32,12,Aarti Kulkarni,Laundry,2024-12-19,Balewadi
+984,Mens,1142,Online Payment,147.6,5,Nirali Shah,Ironing,2025-01-30,Balewadi
+545,Households,1143,Online Payment,81.75,9,Aarti Kulkarni,Ironing,2024-06-05,Hinjewadi
+624,Womens,1144,Card,62.4,14,Suresh Jadhav,Premium Wash,2024-09-21,Hinjewadi
+499,Households,1145,Cash,49.9,1,Hetal Desai,Premium Wash,2024-06-29,Hinjewadi
+745,Mens,1146,Online Payment,111.75,14,Nilesh Shinde,Ironing,2024-06-24,Balewadi
+621,Mens,1147,Card,93.15,16,Nirali Shah,Ironing,2025-03-25,Balewadi
+622,Mens,1148,Card,93.3,10,Vikram Patil,Ironing,2025-03-08,Balewadi
+270,Mens,1149,Cash,27.0,13,Amit Patel,Premium Wash,2024-08-13,Balewadi
+966,Households,1150,Card,144.9,14,Nirali Shah,Ironing,2024-11-30,Hinjewadi
+499,Households,1151,Cash,74.85,2,Nilesh Shinde,Ironing,2024-06-21,Mahalunge
+109,Mens,1152,Cash,13.08,12,Rajesh Mehta,Laundry,2025-03-24,Sus
+416,Households,1153,Cash,41.6,7,Rajesh Mehta,Premium Wash,2024-08-25,Hinjewadi
+397,Womens,1154,Card,47.64,14,Suresh Jadhav,Laundry,2024-06-14,Baner
+119,Households,1155,Card,21.42,14,Vikram Patil,Dry Cleaning,2024-09-01,Balewadi
+270,Womens,1156,Card,27.0,14,Nilesh Shinde,Premium Wash,2024-07-04,Baner
+549,Households,1157,Card,65.88,11,Hetal Desai,Laundry,2025-01-24,Hinjewadi
+887,Households,1158,Cash,106.44,12,Vikram Patil,Laundry,2025-02-24,Mahalunge
+305,Womens,1159,Cash,54.9,20,Amit Patel,Dry Cleaning,2025-01-16,Mahalunge
+166,Womens,1160,Online Payment,24.9,18,Suresh Jadhav,Ironing,2025-01-02,Baner
+538,Womens,1161,Card,80.7,20,Hetal Desai,Ironing,2024-09-25,Balewadi
+167,Households,1162,Online Payment,30.06,18,Nirali Shah,Dry Cleaning,2024-08-25,Balewadi
+335,Households,1163,Cash,60.3,15,Aarti Kulkarni,Dry Cleaning,2024-07-13,Sus
+241,Households,1164,Card,36.15,3,Hetal Desai,Ironing,2024-06-16,Baner
+252,Households,1165,Cash,37.8,5,Aarti Kulkarni,Ironing,2024-07-19,Sus
+704,Households,1166,Card,84.48,20,Vikram Patil,Laundry,2024-11-28,Baner
+919,Womens,1167,Card,165.42,18,Suresh Jadhav,Dry Cleaning,2024-09-05,Sus
+718,Mens,1168,Card,129.24,11,Amit Patel,Dry Cleaning,2024-10-23,Balewadi
+738,Households,1169,Cash,110.7,15,Suresh Jadhav,Ironing,2024-07-02,Balewadi
+401,Womens,1170,Cash,72.18,9,Amit Patel,Dry Cleaning,2024-07-16,Mahalunge
+382,Mens,1171,Cash,38.2,9,Amit Patel,Premium Wash,2024-07-23,Hinjewadi
+850,Womens,1172,Card,127.5,4,Nirali Shah,Ironing,2024-06-09,Balewadi
+563,Womens,1173,Card,101.34,10,Amit Patel,Dry Cleaning,2024-08-15,Sus
+558,Households,1174,Online Payment,55.8,8,Vikram Patil,Premium Wash,2025-02-03,Baner
+235,Households,1175,Cash,35.25,9,Kirit Joshi,Ironing,2024-11-07,Baner
+272,Womens,1176,Online Payment,32.64,1,Kirit Joshi,Laundry,2025-01-10,Mahalunge
+940,Mens,1177,Card,169.2,4,Vikram Patil,Dry Cleaning,2024-10-24,Balewadi
+810,Womens,1178,Card,97.2,12,Amit Patel,Laundry,2025-01-02,Balewadi
+597,Households,1179,Card,89.55,16,Smita Deshmukh,Ironing,2024-08-20,Balewadi
+732,Womens,1180,Card,109.8,1,Nilesh Shinde,Ironing,2025-01-01,Sus
+884,Womens,1181,Card,106.08,15,Amit Patel,Laundry,2024-11-06,Balewadi
+645,Households,1182,Online Payment,116.1,19,Nilesh Shinde,Dry Cleaning,2025-02-02,Baner
+496,Households,1183,Cash,49.6,9,Nilesh Shinde,Premium Wash,2024-07-28,Baner
+429,Mens,1184,Cash,64.35,5,Nirali Shah,Ironing,2025-02-09,Mahalunge
+273,Households,1185,Cash,40.95,18,Rajesh Mehta,Ironing,2024-12-31,Sus
+543,Womens,1186,Online Payment,81.45,10,Rajesh Mehta,Ironing,2025-03-25,Balewadi
+262,Womens,1187,Cash,31.44,17,Aarti Kulkarni,Laundry,2024-11-12,Hinjewadi
+889,Households,1188,Card,133.35,3,Aarti Kulkarni,Ironing,2025-02-27,Balewadi
+624,Womens,1189,Online Payment,62.4,11,Kirit Joshi,Premium Wash,2024-07-23,Balewadi
+804,Mens,1190,Cash,120.6,7,Smita Deshmukh,Ironing,2025-01-16,Balewadi
+934,Mens,1191,Online Payment,140.1,19,Vikram Patil,Ironing,2024-10-21,Baner
+608,Mens,1192,Cash,60.8,10,Aarti Kulkarni,Premium Wash,2024-08-24,Baner
+219,Womens,1193,Online Payment,26.28,1,Amit Patel,Laundry,2025-02-03,Balewadi
+171,Households,1194,Card,30.78,3,Vikram Patil,Dry Cleaning,2025-01-31,Hinjewadi
+142,Womens,1195,Card,14.2,6,Kirit Joshi,Premium Wash,2024-08-15,Balewadi
+905,Womens,1196,Online Payment,108.6,2,Nirali Shah,Laundry,2025-02-11,Balewadi
+621,Mens,1197,Card,62.1,10,Nirali Shah,Premium Wash,2024-07-22,Baner
+338,Households,1198,Online Payment,40.56,17,Vikram Patil,Laundry,2024-11-20,Balewadi
+976,Households,1199,Cash,117.12,20,Smita Deshmukh,Laundry,2024-11-29,Balewadi
+124,Womens,1200,Online Payment,18.6,18,Suresh Jadhav,Ironing,2024-12-08,Balewadi
+378,Womens,1201,Cash,56.7,11,Amit Patel,Ironing,2024-12-05,Mahalunge
+964,Mens,1202,Online Payment,144.6,10,Vikram Patil,Ironing,2025-01-10,Mahalunge
+502,Households,1203,Card,90.36,10,Nirali Shah,Dry Cleaning,2025-03-30,Balewadi
+763,Households,1204,Card,114.45,5,Vikram Patil,Ironing,2025-02-08,Mahalunge
+485,Households,1205,Cash,48.5,18,Suresh Jadhav,Premium Wash,2024-11-02,Balewadi
+907,Mens,1206,Cash,163.26,5,Suresh Jadhav,Dry Cleaning,2024-12-13,Sus
+699,Households,1207,Card,104.85,14,Amit Patel,Ironing,2024-06-12,Baner
+919,Households,1208,Card,137.85,16,Smita Deshmukh,Ironing,2024-10-22,Balewadi
+171,Mens,1209,Cash,30.78,13,Suresh Jadhav,Dry Cleaning,2024-11-03,Balewadi
+315,Womens,1210,Card,47.25,7,Nirali Shah,Ironing,2024-08-28,Hinjewadi
+670,Households,1211,Cash,120.6,8,Amit Patel,Dry Cleaning,2025-02-20,Mahalunge
+897,Mens,1212,Cash,134.55,17,Kirit Joshi,Ironing,2025-03-23,Hinjewadi
+567,Womens,1213,Cash,102.06,13,Hetal Desai,Dry Cleaning,2024-11-12,Hinjewadi
+182,Households,1214,Card,27.3,10,Smita Deshmukh,Ironing,2025-01-13,Hinjewadi
+415,Womens,1215,Cash,49.8,15,Suresh Jadhav,Laundry,2024-06-13,Baner
+614,Households,1216,Online Payment,92.1,9,Rajesh Mehta,Ironing,2025-03-23,Hinjewadi
+341,Womens,1217,Cash,61.38,13,Aarti Kulkarni,Dry Cleaning,2024-12-30,Mahalunge
+801,Womens,1218,Cash,120.15,6,Rajesh Mehta,Ironing,2024-08-07,Hinjewadi
+512,Womens,1219,Cash,76.8,1,Vikram Patil,Ironing,2024-09-14,Hinjewadi
+384,Womens,1220,Cash,38.4,14,Suresh Jadhav,Premium Wash,2024-07-07,Sus
+942,Womens,1221,Online Payment,141.3,4,Nilesh Shinde,Ironing,2024-10-26,Baner
+144,Womens,1222,Online Payment,21.6,14,Kirit Joshi,Ironing,2024-06-29,Baner
+678,Households,1223,Online Payment,81.36,18,Nilesh Shinde,Laundry,2024-11-15,Sus
+521,Households,1224,Card,78.15,4,Kirit Joshi,Ironing,2025-02-02,Baner
+785,Mens,1225,Cash,117.75,15,Smita Deshmukh,Ironing,2024-08-17,Balewadi
+829,Mens,1226,Online Payment,99.48,4,Kirit Joshi,Laundry,2024-10-22,Balewadi
+944,Mens,1227,Card,94.4,7,Rajesh Mehta,Premium Wash,2025-03-20,Balewadi
+319,Womens,1228,Online Payment,47.85,8,Kirit Joshi,Ironing,2024-08-22,Hinjewadi
+194,Mens,1229,Cash,23.28,3,Kirit Joshi,Laundry,2025-01-21,Balewadi
+970,Womens,1230,Card,145.5,19,Suresh Jadhav,Ironing,2025-03-06,Baner
+564,Womens,1231,Cash,101.52,8,Nirali Shah,Dry Cleaning,2024-08-30,Mahalunge
+198,Mens,1232,Cash,35.64,1,Nirali Shah,Dry Cleaning,2025-02-24,Balewadi
+111,Mens,1233,Online Payment,16.65,8,Aarti Kulkarni,Ironing,2024-12-05,Mahalunge
+861,Households,1234,Online Payment,129.15,14,Aarti Kulkarni,Ironing,2024-07-21,Sus
+104,Mens,1235,Card,18.72,20,Amit Patel,Dry Cleaning,2025-03-11,Balewadi
+966,Mens,1236,Cash,144.9,2,Nilesh Shinde,Ironing,2024-09-07,Mahalunge
+673,Womens,1237,Online Payment,80.76,3,Rajesh Mehta,Laundry,2024-07-17,Balewadi
+760,Households,1238,Cash,114.0,20,Hetal Desai,Ironing,2025-03-28,Balewadi
+677,Households,1239,Online Payment,101.55,7,Hetal Desai,Ironing,2024-09-11,Balewadi
+128,Mens,1240,Card,19.2,3,Aarti Kulkarni,Ironing,2024-12-05,Hinjewadi
+806,Womens,1241,Cash,120.9,15,Smita Deshmukh,Ironing,2024-07-16,Hinjewadi
+934,Households,1242,Card,140.1,14,Vikram Patil,Ironing,2024-07-13,Baner
+657,Households,1243,Online Payment,118.26,13,Amit Patel,Dry Cleaning,2025-03-28,Mahalunge
+430,Mens,1244,Card,64.5,7,Suresh Jadhav,Ironing,2024-09-13,Mahalunge
+643,Womens,1245,Cash,96.45,5,Nirali Shah,Ironing,2024-06-11,Baner
+388,Womens,1246,Cash,58.2,11,Rajesh Mehta,Ironing,2024-10-08,Sus
+193,Households,1247,Card,28.95,4,Amit Patel,Ironing,2024-07-11,Balewadi
+813,Households,1248,Card,146.34,19,Suresh Jadhav,Dry Cleaning,2024-06-11,Balewadi
+873,Households,1249,Online Payment,87.3,13,Vikram Patil,Premium Wash,2025-03-08,Balewadi
+654,Households,1250,Card,98.1,9,Amit Patel,Ironing,2024-07-22,Balewadi
+799,Womens,1251,Cash,79.9,16,Amit Patel,Premium Wash,2025-02-22,Balewadi
+246,Households,1252,Cash,36.9,15,Hetal Desai,Ironing,2024-12-07,Baner
+720,Womens,1253,Card,72.0,10,Hetal Desai,Premium Wash,2025-02-15,Balewadi
+359,Mens,1254,Online Payment,64.62,17,Nirali Shah,Dry Cleaning,2024-10-29,Hinjewadi
+139,Mens,1255,Cash,20.85,8,Kirit Joshi,Ironing,2025-03-30,Balewadi
+747,Mens,1256,Card,112.05,3,Rajesh Mehta,Ironing,2024-09-11,Mahalunge
+516,Womens,1257,Cash,77.4,7,Rajesh Mehta,Ironing,2024-12-11,Balewadi
+271,Households,1258,Cash,40.65,17,Nirali Shah,Ironing,2025-02-27,Balewadi
+437,Mens,1259,Cash,65.55,6,Nirali Shah,Ironing,2024-12-13,Balewadi
+951,Mens,1260,Cash,171.18,6,Kirit Joshi,Dry Cleaning,2024-08-06,Mahalunge
+317,Households,1261,Online Payment,57.06,16,Aarti Kulkarni,Dry Cleaning,2024-09-05,Mahalunge
+621,Womens,1262,Cash,93.15,9,Suresh Jadhav,Ironing,2024-12-01,Hinjewadi
+414,Households,1263,Online Payment,49.68,13,Rajesh Mehta,Laundry,2024-06-05,Hinjewadi
+800,Womens,1264,Cash,96.0,20,Aarti Kulkarni,Laundry,2025-03-31,Balewadi
+190,Womens,1265,Cash,19.0,16,Nirali Shah,Premium Wash,2024-06-15,Balewadi
+626,Households,1266,Cash,75.12,1,Nirali Shah,Laundry,2025-03-31,Balewadi
+348,Mens,1267,Cash,34.8,19,Nirali Shah,Premium Wash,2024-10-28,Baner
+786,Households,1268,Cash,78.6,14,Nirali Shah,Premium Wash,2024-06-30,Mahalunge
+969,Mens,1269,Cash,96.9,10,Vikram Patil,Premium Wash,2024-08-23,Mahalunge
+625,Mens,1270,Cash,75.0,14,Suresh Jadhav,Laundry,2024-10-27,Balewadi
+208,Households,1271,Cash,31.2,1,Hetal Desai,Ironing,2025-02-26,Hinjewadi
+993,Households,1272,Card,119.16,18,Kirit Joshi,Laundry,2024-06-13,Balewadi
+528,Mens,1273,Online Payment,52.8,1,Aarti Kulkarni,Premium Wash,2024-06-22,Hinjewadi
+787,Mens,1274,Card,118.05,8,Nilesh Shinde,Ironing,2024-08-28,Balewadi
+982,Households,1275,Online Payment,147.3,16,Kirit Joshi,Ironing,2025-01-24,Balewadi
+390,Households,1276,Cash,39.0,3,Kirit Joshi,Premium Wash,2024-09-15,Sus
+602,Womens,1277,Cash,90.3,3,Nilesh Shinde,Ironing,2024-11-16,Balewadi
+532,Womens,1278,Cash,79.8,3,Rajesh Mehta,Ironing,2024-10-07,Balewadi
+459,Mens,1279,Online Payment,68.85,2,Suresh Jadhav,Ironing,2025-02-06,Baner
+663,Households,1280,Card,119.34,8,Suresh Jadhav,Dry Cleaning,2024-06-01,Balewadi
+474,Womens,1281,Online Payment,56.88,8,Nirali Shah,Laundry,2024-06-13,Baner
+483,Households,1282,Cash,86.94,16,Amit Patel,Dry Cleaning,2024-07-23,Balewadi
+110,Households,1283,Online Payment,19.8,14,Nilesh Shinde,Dry Cleaning,2024-06-12,Mahalunge
+822,Womens,1284,Card,98.64,17,Amit Patel,Laundry,2024-06-16,Balewadi
+751,Mens,1285,Card,112.65,5,Suresh Jadhav,Ironing,2024-11-30,Mahalunge
+881,Households,1286,Online Payment,88.1,4,Smita Deshmukh,Premium Wash,2025-02-10,Balewadi
+383,Womens,1287,Card,57.45,2,Nilesh Shinde,Ironing,2024-06-30,Balewadi
+858,Womens,1288,Online Payment,154.44,20,Vikram Patil,Dry Cleaning,2024-09-04,Balewadi
+427,Households,1289,Card,51.24,15,Smita Deshmukh,Laundry,2024-11-20,Mahalunge
+672,Womens,1290,Cash,100.8,18,Rajesh Mehta,Ironing,2024-06-16,Balewadi
+737,Households,1291,Online Payment,73.7,16,Smita Deshmukh,Premium Wash,2024-11-10,Baner
+781,Households,1292,Card,93.72,12,Smita Deshmukh,Laundry,2025-02-02,Hinjewadi
+352,Mens,1293,Cash,63.36,13,Rajesh Mehta,Dry Cleaning,2024-09-16,Balewadi
+947,Households,1294,Card,170.46,5,Nirali Shah,Dry Cleaning,2025-02-18,Mahalunge
+264,Womens,1295,Online Payment,31.68,11,Rajesh Mehta,Laundry,2025-02-17,Mahalunge
+226,Womens,1296,Card,33.9,4,Hetal Desai,Ironing,2024-09-28,Hinjewadi
+594,Mens,1297,Card,59.4,4,Nilesh Shinde,Premium Wash,2024-07-18,Hinjewadi
+842,Womens,1298,Online Payment,101.04,20,Nilesh Shinde,Laundry,2024-08-31,Balewadi
+342,Households,1299,Card,34.2,3,Nirali Shah,Premium Wash,2024-10-12,Mahalunge
+982,Mens,1300,Card,147.3,6,Aarti Kulkarni,Ironing,2025-01-08,Mahalunge
+618,Womens,1301,Card,111.24,6,Rajesh Mehta,Dry Cleaning,2024-07-29,Balewadi
+725,Mens,1302,Cash,72.5,4,Kirit Joshi,Premium Wash,2024-09-01,Balewadi
+880,Households,1303,Online Payment,105.6,6,Rajesh Mehta,Laundry,2025-03-15,Balewadi
+798,Womens,1304,Online Payment,119.7,7,Kirit Joshi,Ironing,2025-02-25,Hinjewadi
+691,Womens,1305,Card,124.38,12,Rajesh Mehta,Dry Cleaning,2025-03-14,Hinjewadi
+779,Womens,1306,Online Payment,116.85,13,Suresh Jadhav,Ironing,2024-10-22,Mahalunge
+512,Households,1307,Cash,76.8,10,Kirit Joshi,Ironing,2024-09-25,Balewadi
+133,Households,1308,Cash,15.96,5,Rajesh Mehta,Laundry,2024-12-26,Balewadi
+822,Households,1309,Online Payment,123.3,1,Rajesh Mehta,Ironing,2025-01-17,Balewadi
+493,Mens,1310,Cash,59.16,3,Nilesh Shinde,Laundry,2024-11-18,Mahalunge
+562,Womens,1311,Card,101.16,4,Aarti Kulkarni,Dry Cleaning,2024-08-09,Hinjewadi
+168,Households,1312,Card,25.2,14,Nilesh Shinde,Ironing,2024-11-09,Balewadi
+857,Mens,1313,Card,128.55,9,Amit Patel,Ironing,2024-08-13,Balewadi
+307,Womens,1314,Online Payment,55.26,17,Rajesh Mehta,Dry Cleaning,2024-08-14,Mahalunge
+643,Mens,1315,Card,115.74,3,Vikram Patil,Dry Cleaning,2024-08-06,Mahalunge
+812,Womens,1316,Online Payment,121.8,17,Suresh Jadhav,Ironing,2024-12-14,Mahalunge
+367,Households,1317,Cash,66.06,13,Nilesh Shinde,Dry Cleaning,2024-09-28,Hinjewadi
+175,Households,1318,Card,26.25,8,Kirit Joshi,Ironing,2024-08-21,Balewadi
+720,Womens,1319,Card,108.0,8,Amit Patel,Ironing,2024-10-10,Hinjewadi
+160,Womens,1320,Cash,28.8,20,Amit Patel,Dry Cleaning,2024-12-25,Baner
+198,Womens,1321,Card,29.7,20,Suresh Jadhav,Ironing,2024-12-13,Balewadi
+366,Womens,1322,Cash,65.88,1,Nirali Shah,Dry Cleaning,2025-02-05,Baner
+586,Womens,1323,Online Payment,58.6,13,Smita Deshmukh,Premium Wash,2024-09-17,Balewadi
+571,Mens,1324,Cash,85.65,6,Rajesh Mehta,Ironing,2025-03-06,Balewadi
+681,Mens,1325,Cash,122.58,19,Amit Patel,Dry Cleaning,2024-10-11,Hinjewadi
+123,Households,1326,Card,18.45,18,Smita Deshmukh,Ironing,2024-10-28,Hinjewadi
+746,Households,1327,Cash,89.52,11,Kirit Joshi,Laundry,2024-11-21,Mahalunge
+299,Mens,1328,Card,44.85,3,Vikram Patil,Ironing,2025-02-15,Balewadi
+121,Womens,1329,Card,18.15,19,Suresh Jadhav,Ironing,2024-12-24,Balewadi
+690,Womens,1330,Card,124.2,19,Kirit Joshi,Dry Cleaning,2024-07-19,Mahalunge
+425,Mens,1331,Card,63.75,8,Amit Patel,Ironing,2024-07-09,Hinjewadi
+921,Womens,1332,Cash,110.52,4,Hetal Desai,Laundry,2025-03-24,Baner
+622,Households,1333,Cash,93.3,4,Nirali Shah,Ironing,2024-10-28,Hinjewadi
+804,Households,1334,Card,120.6,3,Kirit Joshi,Ironing,2024-06-30,Baner
+326,Households,1335,Card,39.12,20,Nirali Shah,Laundry,2025-01-21,Mahalunge
+762,Mens,1336,Cash,114.3,18,Suresh Jadhav,Ironing,2024-12-10,Balewadi
+751,Mens,1337,Online Payment,135.18,18,Hetal Desai,Dry Cleaning,2024-06-05,Baner
+643,Households,1338,Online Payment,115.74,18,Hetal Desai,Dry Cleaning,2025-03-26,Hinjewadi
+659,Womens,1339,Cash,98.85,1,Nilesh Shinde,Ironing,2024-12-02,Sus
+174,Mens,1340,Online Payment,26.1,7,Kirit Joshi,Ironing,2025-03-19,Balewadi
+817,Households,1341,Card,122.55,12,Rajesh Mehta,Ironing,2024-11-03,Mahalunge
+149,Womens,1342,Cash,22.35,20,Amit Patel,Ironing,2025-02-15,Mahalunge
+920,Mens,1343,Online Payment,92.0,17,Hetal Desai,Premium Wash,2024-12-01,Hinjewadi
+812,Households,1344,Card,121.8,10,Smita Deshmukh,Ironing,2024-06-14,Mahalunge
+388,Mens,1345,Card,38.8,11,Amit Patel,Premium Wash,2025-01-27,Baner
+176,Households,1346,Cash,21.12,6,Nilesh Shinde,Laundry,2025-02-13,Balewadi
+758,Households,1347,Card,136.44,20,Aarti Kulkarni,Dry Cleaning,2024-11-14,Balewadi
+714,Womens,1348,UPI,85.68,19,Rajesh Mehta,Laundry,2025-03-30,Mahalunge
+980,Womens,1349,Card,176.4,13,Vikram Patil,Dry Cleaning,2025-02-27,Balewadi
+652,Mens,1350,UPI,78.24,8,Vikram Patil,Laundry,2024-07-12,Mahalunge
+602,Households,1351,Card,108.36,19,Hetal Desai,Dry Cleaning,2024-10-23,Hinjewadi
+423,Households,1352,UPI,76.14,18,Suresh Jadhav,Dry Cleaning,2024-09-23,Sus
+950,Households,1353,UPI,114.0,18,Rajesh Mehta,Laundry,2024-11-11,Baner
+944,Mens,1354,Card,94.4,7,Amit Patel,Premium Wash,2024-07-18,Baner
+643,Households,1355,Card,64.3,20,Suresh Jadhav,Premium Wash,2024-10-20,Sus
+235,Households,1356,Card,35.25,19,Nirali Shah,Ironing,2025-01-25,Balewadi
+435,Womens,1357,UPI,65.25,7,Amit Patel,Ironing,2025-03-17,Balewadi
+444,Households,1358,Cash,79.92,9,Rajesh Mehta,Dry Cleaning,2024-11-06,Balewadi
+885,Households,1359,UPI,132.75,20,Hetal Desai,Ironing,2024-12-23,Baner
+978,Womens,1360,Card,176.04,1,Vikram Patil,Dry Cleaning,2024-09-12,Hinjewadi
+411,Mens,1361,UPI,61.65,4,Kirit Joshi,Ironing,2025-02-04,Balewadi
+262,Mens,1362,Card,31.44,4,Rajesh Mehta,Laundry,2024-08-15,Balewadi
+827,Mens,1363,Cash,124.05,7,Amit Patel,Ironing,2024-10-11,Balewadi
+726,Households,1364,Cash,72.6,7,Suresh Jadhav,Premium Wash,2024-12-18,Balewadi
+283,Households,1365,UPI,33.96,3,Suresh Jadhav,Laundry,2024-12-02,Balewadi
+767,Womens,1366,Card,76.7,11,Vikram Patil,Premium Wash,2024-06-30,Balewadi
+763,Mens,1367,UPI,91.56,4,Vikram Patil,Laundry,2024-11-26,Mahalunge
+683,Mens,1368,UPI,102.45,20,Suresh Jadhav,Ironing,2024-10-15,Balewadi
+648,Womens,1369,Card,97.2,7,Nilesh Shinde,Ironing,2024-09-02,Hinjewadi
+219,Households,1370,Cash,32.85,2,Nilesh Shinde,Ironing,2024-06-08,Hinjewadi
+465,Womens,1371,Cash,46.5,9,Vikram Patil,Premium Wash,2024-11-01,Baner
+768,Womens,1372,Card,138.24,18,Hetal Desai,Dry Cleaning,2024-10-04,Balewadi
+592,Households,1373,Cash,106.56,9,Nilesh Shinde,Dry Cleaning,2025-02-20,Balewadi
+335,Households,1374,Card,60.3,20,Amit Patel,Dry Cleaning,2025-03-02,Balewadi
+514,Womens,1375,Card,77.1,15,Rajesh Mehta,Ironing,2024-09-21,Mahalunge
+312,Households,1376,Card,46.8,4,Suresh Jadhav,Ironing,2024-10-14,Balewadi
+578,Mens,1377,Card,69.36,5,Kirit Joshi,Laundry,2024-10-17,Baner
+141,Womens,1378,Cash,25.38,18,Hetal Desai,Dry Cleaning,2024-09-28,Sus
+136,Mens,1379,Cash,16.32,5,Suresh Jadhav,Laundry,2024-10-15,Baner
+458,Womens,1380,Card,45.8,14,Nirali Shah,Premium Wash,2024-11-11,Hinjewadi
+202,Womens,1381,Card,20.2,1,Vikram Patil,Premium Wash,2025-03-24,Baner
+214,Mens,1382,Cash,38.52,2,Kirit Joshi,Dry Cleaning,2024-12-27,Balewadi
+476,Households,1383,UPI,47.6,11,Rajesh Mehta,Premium Wash,2024-11-29,Balewadi
+305,Households,1384,UPI,30.5,18,Nirali Shah,Premium Wash,2024-07-03,Balewadi
+158,Womens,1385,UPI,18.96,1,Smita Deshmukh,Laundry,2024-08-16,Baner
+342,Womens,1386,Card,34.2,1,Hetal Desai,Premium Wash,2025-01-15,Balewadi
+929,Womens,1387,Cash,139.35,19,Amit Patel,Ironing,2025-01-01,Baner
+156,Womens,1388,Card,28.08,4,Nirali Shah,Dry Cleaning,2024-12-27,Mahalunge
+771,Mens,1389,Cash,115.65,12,Nirali Shah,Ironing,2025-03-27,Baner
+703,Womens,1390,UPI,84.36,1,Kirit Joshi,Laundry,2024-08-29,Sus
+213,Mens,1391,UPI,38.34,20,Kirit Joshi,Dry Cleaning,2025-03-18,Balewadi
+707,Mens,1392,Cash,106.05,19,Amit Patel,Ironing,2024-08-06,Balewadi
+464,Mens,1393,Cash,55.68,2,Amit Patel,Laundry,2025-03-18,Balewadi
+448,Womens,1394,Card,80.64,14,Nirali Shah,Dry Cleaning,2024-10-01,Hinjewadi
+229,Mens,1395,Cash,22.9,15,Smita Deshmukh,Premium Wash,2024-07-22,Baner
+818,Households,1396,UPI,98.16,3,Aarti Kulkarni,Laundry,2024-10-28,Balewadi
+106,Households,1397,Cash,12.72,11,Nirali Shah,Laundry,2024-08-19,Balewadi
+206,Womens,1398,Card,37.08,10,Nirali Shah,Dry Cleaning,2024-06-09,Balewadi
+461,Households,1399,UPI,69.15,12,Rajesh Mehta,Ironing,2025-01-31,Balewadi
+473,Womens,1400,Card,85.14,10,Kirit Joshi,Dry Cleaning,2024-12-27,Balewadi
+941,Households,1401,Cash,112.92,4,Smita Deshmukh,Laundry,2024-08-11,Balewadi
+494,Mens,1402,UPI,74.1,20,Rajesh Mehta,Ironing,2024-11-22,Mahalunge
+420,Households,1403,Card,42.0,8,Amit Patel,Premium Wash,2024-09-10,Hinjewadi
+880,Womens,1404,Card,158.4,13,Suresh Jadhav,Dry Cleaning,2024-09-27,Balewadi
+328,Mens,1405,UPI,49.2,3,Kirit Joshi,Ironing,2024-09-01,Baner
+953,Households,1406,UPI,95.3,3,Aarti Kulkarni,Premium Wash,2024-11-07,Mahalunge
+714,Households,1407,Card,128.52,6,Nilesh Shinde,Dry Cleaning,2025-02-14,Balewadi
+684,Womens,1408,Card,102.6,19,Kirit Joshi,Ironing,2025-02-06,Sus
+475,Mens,1409,Cash,71.25,8,Smita Deshmukh,Ironing,2024-07-28,Sus
+913,Mens,1410,Card,109.56,15,Kirit Joshi,Laundry,2024-10-25,Baner
+116,Households,1411,Cash,17.4,17,Rajesh Mehta,Ironing,2025-03-24,Balewadi
+984,Womens,1412,UPI,177.12,2,Amit Patel,Dry Cleaning,2025-03-28,Balewadi
+851,Womens,1413,UPI,127.65,12,Kirit Joshi,Ironing,2024-06-23,Mahalunge
+570,Womens,1414,UPI,85.5,8,Nirali Shah,Ironing,2025-01-10,Hinjewadi
+457,Households,1415,Card,54.84,14,Rajesh Mehta,Laundry,2024-12-11,Balewadi
+264,Households,1416,Card,31.68,16,Vikram Patil,Laundry,2024-12-01,Baner
+751,Households,1417,Card,135.18,7,Kirit Joshi,Dry Cleaning,2024-07-10,Mahalunge
+981,Households,1418,Cash,117.72,17,Nirali Shah,Laundry,2025-01-27,Baner
+769,Womens,1419,Card,76.9,8,Hetal Desai,Premium Wash,2025-01-25,Balewadi
+619,Households,1420,Card,74.28,19,Kirit Joshi,Laundry,2024-12-08,Balewadi
+177,Womens,1421,Cash,31.86,1,Smita Deshmukh,Dry Cleaning,2024-08-18,Sus
+356,Womens,1422,Card,64.08,9,Smita Deshmukh,Dry Cleaning,2024-11-10,Baner
+765,Mens,1423,Cash,76.5,16,Amit Patel,Premium Wash,2024-08-10,Baner
+358,Mens,1424,Card,35.8,9,Kirit Joshi,Premium Wash,2024-08-05,Hinjewadi
+116,Womens,1425,Card,11.6,18,Amit Patel,Premium Wash,2025-02-10,Balewadi
+724,Mens,1426,Card,108.6,15,Aarti Kulkarni,Ironing,2024-06-03,Baner
+945,Households,1427,Cash,141.75,3,Nirali Shah,Ironing,2025-02-21,Balewadi
+948,Womens,1428,Card,170.64,18,Aarti Kulkarni,Dry Cleaning,2025-03-01,Baner
+146,Mens,1429,Cash,14.6,18,Amit Patel,Premium Wash,2024-12-03,Baner
+842,Mens,1430,Card,84.2,4,Nirali Shah,Premium Wash,2024-12-04,Mahalunge
+863,Households,1431,Card,86.3,18,Suresh Jadhav,Premium Wash,2024-12-26,Balewadi
+492,Mens,1432,Card,49.2,14,Nilesh Shinde,Premium Wash,2024-07-20,Hinjewadi
+667,Mens,1433,Card,100.05,3,Rajesh Mehta,Ironing,2025-01-02,Balewadi
+102,Households,1434,UPI,12.24,19,Nilesh Shinde,Laundry,2024-06-22,Baner
+580,Mens,1435,Cash,69.6,5,Rajesh Mehta,Laundry,2024-08-28,Balewadi
+876,Mens,1436,UPI,157.68,17,Kirit Joshi,Dry Cleaning,2024-07-12,Balewadi
+753,Households,1437,Card,90.36,3,Hetal Desai,Laundry,2024-08-08,Balewadi
+640,Mens,1438,UPI,64.0,19,Hetal Desai,Premium Wash,2024-08-12,Baner
+372,Womens,1439,Card,66.96,1,Suresh Jadhav,Dry Cleaning,2025-01-15,Hinjewadi
+318,Households,1440,UPI,47.7,1,Smita Deshmukh,Ironing,2025-01-30,Baner
+352,Womens,1441,Cash,63.36,6,Kirit Joshi,Dry Cleaning,2024-09-01,Baner
+609,Mens,1442,Card,60.9,4,Amit Patel,Premium Wash,2024-10-23,Hinjewadi
+464,Mens,1443,Card,69.6,5,Kirit Joshi,Ironing,2024-07-29,Mahalunge
+714,Womens,1444,Cash,71.4,11,Rajesh Mehta,Premium Wash,2024-07-25,Baner
+634,Womens,1445,UPI,63.4,3,Nirali Shah,Premium Wash,2024-09-27,Sus
+250,Households,1446,Cash,30.0,12,Rajesh Mehta,Laundry,2025-02-20,Mahalunge
+659,Mens,1447,Cash,118.62,12,Aarti Kulkarni,Dry Cleaning,2024-10-07,Balewadi
+736,Households,1448,UPI,110.4,12,Aarti Kulkarni,Ironing,2025-01-11,Balewadi
+275,Mens,1449,Cash,33.0,2,Smita Deshmukh,Laundry,2025-03-31,Baner
+527,Households,1450,UPI,94.86,8,Hetal Desai,Dry Cleaning,2025-03-24,Balewadi
+354,Mens,1451,UPI,63.72,9,Vikram Patil,Dry Cleaning,2024-10-24,Baner
+579,Womens,1452,UPI,104.22,20,Vikram Patil,Dry Cleaning,2024-11-16,Baner
+909,Households,1453,Cash,90.9,17,Aarti Kulkarni,Premium Wash,2024-06-16,Balewadi
+834,Mens,1454,UPI,100.08,5,Nilesh Shinde,Laundry,2024-12-14,Baner
+279,Mens,1455,Cash,27.9,20,Vikram Patil,Premium Wash,2024-09-10,Baner
+447,Womens,1456,Card,44.7,10,Nirali Shah,Premium Wash,2025-02-28,Hinjewadi
+639,Mens,1457,Cash,115.02,12,Vikram Patil,Dry Cleaning,2024-10-03,Balewadi
+454,Mens,1458,Card,68.1,11,Rajesh Mehta,Ironing,2024-06-14,Hinjewadi
+766,Womens,1459,Cash,76.6,13,Aarti Kulkarni,Premium Wash,2024-07-24,Hinjewadi
+415,Womens,1460,Card,49.8,20,Rajesh Mehta,Laundry,2024-09-04,Balewadi
+882,Mens,1461,Card,105.84,14,Nirali Shah,Laundry,2024-07-17,Balewadi
+738,Mens,1462,UPI,88.56,4,Suresh Jadhav,Laundry,2024-07-21,Baner
+519,Womens,1463,Card,77.85,5,Smita Deshmukh,Ironing,2024-11-09,Balewadi
+426,Mens,1464,Cash,42.6,19,Nilesh Shinde,Premium Wash,2024-07-15,Baner
+352,Womens,1465,Card,42.24,2,Nirali Shah,Laundry,2025-02-06,Balewadi
+542,Mens,1466,UPI,97.56,7,Nilesh Shinde,Dry Cleaning,2024-10-11,Balewadi
+258,Households,1467,Cash,25.8,6,Rajesh Mehta,Premium Wash,2025-03-25,Baner
+450,Womens,1468,UPI,81.0,1,Amit Patel,Dry Cleaning,2024-07-23,Hinjewadi
+799,Womens,1469,Cash,79.9,16,Hetal Desai,Premium Wash,2024-06-23,Sus
+136,Households,1470,UPI,20.4,9,Vikram Patil,Ironing,2024-06-13,Baner
+434,Households,1471,UPI,78.12,20,Nirali Shah,Dry Cleaning,2024-08-18,Baner
+195,Households,1472,UPI,23.4,18,Kirit Joshi,Laundry,2024-12-12,Balewadi
+339,Households,1473,Card,61.02,4,Kirit Joshi,Dry Cleaning,2024-08-20,Balewadi
+599,Womens,1474,UPI,89.85,16,Hetal Desai,Ironing,2024-09-04,Hinjewadi
+374,Womens,1475,UPI,56.1,3,Rajesh Mehta,Ironing,2024-08-15,Mahalunge
+311,Mens,1476,Card,46.65,1,Nirali Shah,Ironing,2024-07-25,Mahalunge
+979,Mens,1477,Cash,146.85,15,Hetal Desai,Ironing,2024-12-24,Balewadi
+550,Womens,1478,Cash,55.0,17,Kirit Joshi,Premium Wash,2025-01-04,Mahalunge
+540,Households,1479,Cash,54.0,1,Nirali Shah,Premium Wash,2024-11-22,Baner
+623,Womens,1480,UPI,93.45,1,Hetal Desai,Ironing,2025-01-30,Balewadi
+372,Womens,1481,UPI,55.8,15,Nilesh Shinde,Ironing,2025-03-15,Balewadi
+609,Mens,1482,Card,73.08,15,Nirali Shah,Laundry,2025-03-02,Balewadi
+124,Womens,1483,UPI,14.88,15,Nirali Shah,Laundry,2024-10-08,Baner
+602,Households,1484,Cash,72.24,7,Vikram Patil,Laundry,2024-09-23,Balewadi
+331,Mens,1485,Card,39.72,19,Amit Patel,Laundry,2024-10-19,Baner
+879,Mens,1486,Card,105.48,1,Vikram Patil,Laundry,2025-01-03,Baner
+840,Mens,1487,Card,151.2,15,Nilesh Shinde,Dry Cleaning,2024-07-17,Baner
+311,Womens,1488,UPI,55.98,9,Suresh Jadhav,Dry Cleaning,2024-06-17,Baner
+102,Womens,1489,Cash,18.36,12,Vikram Patil,Dry Cleaning,2025-01-16,Hinjewadi
+107,Womens,1490,UPI,16.05,14,Rajesh Mehta,Ironing,2025-01-04,Balewadi
+655,Mens,1491,UPI,98.25,7,Rajesh Mehta,Ironing,2025-03-26,Hinjewadi
+616,Womens,1492,Cash,73.92,10,Vikram Patil,Laundry,2024-12-04,Balewadi
+711,Mens,1493,UPI,71.1,3,Nilesh Shinde,Premium Wash,2025-01-30,Hinjewadi
+908,Womens,1494,Card,108.96,16,Aarti Kulkarni,Laundry,2024-06-20,Balewadi
+656,Mens,1495,Card,118.08,17,Nirali Shah,Dry Cleaning,2024-07-31,Balewadi
+883,Womens,1496,Card,88.3,7,Aarti Kulkarni,Premium Wash,2024-09-11,Balewadi
+814,Womens,1497,UPI,122.1,10,Nilesh Shinde,Ironing,2024-08-13,Balewadi
+378,Womens,1201,Cash,56.7,11,Amit Patel,Ironing,2024-08-09,Mahalunge
+177,Womens,1421,Cash,31.86,1,Smita Deshmukh,Dry Cleaning,2024-07-10,Sus
+352,Mens,1293,Cash,63.36,13,Rajesh Mehta,Dry Cleaning,2024-06-01,Balewadi
+880,Womens,1404,Card,158.4,13,Suresh Jadhav,Dry Cleaning,2024-06-21,Balewadi
+235,Households,1356,Card,35.25,19,Nirali Shah,Ironing,2024-06-02,Balewadi
+212,Womens,1059,Card,25.44,3,Nilesh Shinde,Laundry,2024-09-05,Mahalunge
+818,Households,1396,UPI,98.16,3,Aarti Kulkarni,Laundry,2025-03-28,Balewadi
+102,Womens,1489,Cash,18.36,12,Vikram Patil,Dry Cleaning,2025-03-29,Hinjewadi
+372,Womens,1439,Card,66.96,1,Suresh Jadhav,Dry Cleaning,2024-08-04,Hinjewadi
+459,Mens,1279,Online Payment,68.85,2,Suresh Jadhav,Ironing,2024-11-01,Baner
+245,Mens,1033,Cash,36.75,12,Nilesh Shinde,Ironing,2024-10-14,Balewadi
+478,Mens,1134,Cash,47.8,3,Smita Deshmukh,Premium Wash,2024-09-08,Balewadi
+341,Womens,1217,Cash,61.38,13,Aarti Kulkarni,Dry Cleaning,2025-03-25,Mahalunge
+102,Households,1434,UPI,12.24,19,Nilesh Shinde,Laundry,2024-06-02,Baner
+219,Womens,1193,Online Payment,26.28,1,Amit Patel,Laundry,2025-03-11,Balewadi
+654,Households,1250,Card,98.1,9,Amit Patel,Ironing,2024-11-13,Balewadi
+258,Households,1467,Cash,25.8,6,Rajesh Mehta,Premium Wash,2025-02-19,Baner
+726,Households,1364,Cash,72.6,7,Suresh Jadhav,Premium Wash,2024-07-30,Balewadi
+588,Mens,1036,Online Payment,70.56,17,Rajesh Mehta,Laundry,2024-11-07,Baner
+851,Womens,1413,UPI,127.65,12,Kirit Joshi,Ironing,2025-01-09,Mahalunge
+461,Households,1399,UPI,69.15,12,Rajesh Mehta,Ironing,2025-01-30,Balewadi
+672,Womens,1290,Cash,100.8,18,Rajesh Mehta,Ironing,2024-06-13,Balewadi
+887,Households,1158,Cash,106.44,12,Vikram Patil,Laundry,2024-10-27,Mahalunge
+812,Womens,1316,Online Payment,121.8,17,Suresh Jadhav,Ironing,2024-09-29,Mahalunge
+261,Mens,1055,Cash,31.32,16,Kirit Joshi,Laundry,2024-09-21,Baner
+393,Womens,1133,Cash,39.3,18,Nilesh Shinde,Premium Wash,2025-02-04,Baner
+198,Mens,1232,Cash,35.64,1,Nirali Shah,Dry Cleaning,2024-08-26,Balewadi
+621,Womens,1262,Cash,93.15,9,Suresh Jadhav,Ironing,2024-07-08,Hinjewadi
+214,Mens,1382,Cash,38.52,2,Kirit Joshi,Dry Cleaning,2024-08-06,Balewadi
+885,Households,1359,UPI,132.75,20,Hetal Desai,Ironing,2024-06-07,Baner
+919,Womens,1167,Card,165.42,18,Suresh Jadhav,Dry Cleaning,2024-12-28,Sus
+663,Households,1280,Card,119.34,8,Suresh Jadhav,Dry Cleaning,2024-11-29,Balewadi
+965,Womens,1127,Online Payment,115.8,11,Aarti Kulkarni,Laundry,2024-11-29,Baner
+677,Households,1239,Online Payment,101.55,7,Hetal Desai,Ironing,2024-09-30,Balewadi
+640,Mens,1438,UPI,64.0,19,Hetal Desai,Premium Wash,2024-06-20,Baner
+116,Households,1411,Cash,17.4,17,Rajesh Mehta,Ironing,2024-08-20,Balewadi
+212,Womens,1059,Card,25.44,3,Nilesh Shinde,Laundry,2025-01-03,Mahalunge
+262,Womens,1187,Cash,31.44,17,Aarti Kulkarni,Laundry,2024-08-01,Hinjewadi
+485,Households,1205,Cash,48.5,18,Suresh Jadhav,Premium Wash,2024-11-01,Balewadi
+411,Mens,1361,UPI,61.65,4,Kirit Joshi,Ironing,2025-01-22,Balewadi
+213,Mens,1391,UPI,38.34,20,Kirit Joshi,Dry Cleaning,2025-01-31,Balewadi
+766,Womens,1459,Cash,76.6,13,Aarti Kulkarni,Premium Wash,2024-06-02,Hinjewadi
+714,Womens,1348,UPI,85.68,19,Rajesh Mehta,Laundry,2024-10-15,Mahalunge
+277,Households,1083,Card,33.24,10,Smita Deshmukh,Laundry,2024-08-23,Hinjewadi
+955,Mens,1064,Online Payment,114.6,3,Amit Patel,Laundry,2025-02-02,Balewadi
+305,Households,1384,UPI,30.5,18,Nirali Shah,Premium Wash,2025-01-25,Balewadi
+834,Mens,1454,UPI,100.08,5,Nilesh Shinde,Laundry,2024-06-25,Baner
+319,Womens,1228,Online Payment,47.85,8,Kirit Joshi,Ironing,2024-12-12,Hinjewadi
+195,Households,1472,UPI,23.4,18,Kirit Joshi,Laundry,2025-01-24,Balewadi
+499,Households,1151,Cash,74.85,2,Nilesh Shinde,Ironing,2024-12-02,Mahalunge
+921,Womens,1089,Online Payment,138.15,1,Nilesh Shinde,Ironing,2024-11-10,Balewadi
+711,Mens,1493,UPI,71.1,3,Nilesh Shinde,Premium Wash,2025-03-15,Hinjewadi
+358,Womens,1003,Card,53.7,15,Aarti Kulkarni,Ironing,2024-10-12,Baner
+318,Households,1440,UPI,47.7,1,Smita Deshmukh,Ironing,2024-10-25,Baner
+269,Womens,1095,Cash,40.35,7,Nirali Shah,Ironing,2025-02-03,Baner
+799,Womens,1251,Cash,79.9,16,Amit Patel,Premium Wash,2024-06-27,Balewadi
+808,Mens,1015,Online Payment,96.96,16,Aarti Kulkarni,Laundry,2024-12-29,Hinjewadi
+622,Mens,1148,Card,93.3,10,Vikram Patil,Ironing,2025-01-14,Balewadi
+208,Households,1271,Cash,31.2,1,Hetal Desai,Ironing,2024-10-04,Hinjewadi
+496,Households,1183,Cash,49.6,9,Nilesh Shinde,Premium Wash,2025-01-11,Baner
+372,Womens,1481,UPI,55.8,15,Nilesh Shinde,Ironing,2024-10-17,Balewadi
+828,Households,1128,Cash,82.8,20,Aarti Kulkarni,Premium Wash,2024-12-11,Baner
+670,Households,1211,Cash,120.6,8,Amit Patel,Dry Cleaning,2025-02-16,Mahalunge
+358,Mens,1424,Card,35.8,9,Kirit Joshi,Premium Wash,2024-06-12,Hinjewadi
+667,Mens,1433,Card,100.05,3,Rajesh Mehta,Ironing,2025-02-13,Balewadi
+156,Womens,1388,Card,28.08,4,Nirali Shah,Dry Cleaning,2025-03-31,Mahalunge
+397,Womens,1154,Card,47.64,14,Suresh Jadhav,Laundry,2024-10-11,Baner
+275,Mens,1449,Cash,33.0,2,Smita Deshmukh,Laundry,2025-03-16,Baner
+966,Households,1150,Card,144.9,14,Nirali Shah,Ironing,2024-06-12,Hinjewadi
+121,Households,1072,Online Payment,18.15,14,Kirit Joshi,Ironing,2024-07-23,Baner
+947,Households,1294,Card,170.46,5,Nirali Shah,Dry Cleaning,2024-08-31,Mahalunge
+212,Womens,1059,Card,25.44,3,Nilesh Shinde,Laundry,2024-08-23,Mahalunge
+483,Households,1282,Cash,86.94,16,Amit Patel,Dry Cleaning,2024-09-06,Balewadi
+279,Mens,1455,Cash,27.9,20,Vikram Patil,Premium Wash,2025-02-02,Baner
+464,Womens,1100,Card,83.52,7,Hetal Desai,Dry Cleaning,2024-06-29,Baner
+315,Womens,1210,Card,47.25,7,Nirali Shah,Ironing,2024-11-01,Hinjewadi
+205,Households,1119,Cash,20.5,14,Hetal Desai,Premium Wash,2024-06-18,Sus
+657,Households,1243,Online Payment,118.26,13,Amit Patel,Dry Cleaning,2024-12-07,Mahalunge
+892,Womens,1138,Online Payment,160.56,5,Suresh Jadhav,Dry Cleaning,2024-12-20,Hinjewadi
+965,Womens,1127,Online Payment,115.8,11,Aarti Kulkarni,Laundry,2024-12-14,Baner
+881,Households,1286,Online Payment,88.1,4,Smita Deshmukh,Premium Wash,2024-10-30,Balewadi
+415,Womens,1215,Cash,49.8,15,Suresh Jadhav,Laundry,2024-11-07,Baner
+424,Womens,1053,Online Payment,50.88,12,Hetal Desai,Laundry,2024-11-18,Balewadi
+510,Households,1034,Card,51.0,17,Smita Deshmukh,Premium Wash,2025-01-24,Baner
+613,Mens,1005,Card,73.56,13,Rajesh Mehta,Laundry,2024-09-13,Balewadi
+430,Mens,1244,Card,64.5,7,Suresh Jadhav,Ironing,2024-07-14,Mahalunge
+173,Households,1106,Card,31.14,11,Vikram Patil,Dry Cleaning,2024-11-02,Baner
+208,Households,1271,Cash,31.2,1,Hetal Desai,Ironing,2024-10-08,Hinjewadi
+825,Mens,1010,Cash,123.75,10,Amit Patel,Ironing,2024-12-13,Mahalunge
+237,Womens,1124,Card,23.7,16,Vikram Patil,Premium Wash,2024-07-28,Hinjewadi
+738,Households,1169,Cash,110.7,15,Suresh Jadhav,Ironing,2024-06-26,Balewadi
+746,Households,1327,Cash,89.52,11,Kirit Joshi,Laundry,2024-11-18,Mahalunge
+751,Households,1417,Card,135.18,7,Kirit Joshi,Dry Cleaning,2024-10-02,Mahalunge
+907,Mens,1206,Cash,163.26,5,Suresh Jadhav,Dry Cleaning,2024-09-04,Sus
+342,Households,1299,Card,34.2,3,Nirali Shah,Premium Wash,2024-09-25,Mahalunge
+528,Mens,1273,Online Payment,52.8,1,Aarti Kulkarni,Premium Wash,2024-10-19,Hinjewadi
+945,Mens,1063,Online Payment,141.75,2,Rajesh Mehta,Ironing,2024-09-28,Mahalunge
+609,Mens,1442,Card,60.9,4,Amit Patel,Premium Wash,2025-01-09,Hinjewadi
+146,Mens,1429,Cash,14.6,18,Amit Patel,Premium Wash,2025-02-23,Baner
+388,Mens,1345,Card,38.8,11,Amit Patel,Premium Wash,2025-02-16,Baner
+704,Households,1166,Card,84.48,20,Vikram Patil,Laundry,2025-03-05,Baner
+307,Womens,1314,Online Payment,55.26,17,Rajesh Mehta,Dry Cleaning,2024-08-26,Mahalunge
+663,Womens,1017,Online Payment,79.56,6,Suresh Jadhav,Laundry,2024-07-14,Balewadi
+834,Mens,1454,UPI,100.08,5,Nilesh Shinde,Laundry,2024-08-31,Baner
+397,Mens,1099,Cash,39.7,16,Suresh Jadhav,Premium Wash,2024-10-19,Balewadi
+358,Womens,1003,Card,53.7,15,Aarti Kulkarni,Ironing,2024-08-30,Baner
+397,Womens,1154,Card,47.64,14,Suresh Jadhav,Laundry,2024-08-03,Baner
+592,Households,1373,Cash,106.56,9,Nilesh Shinde,Dry Cleaning,2024-11-17,Balewadi
+828,Households,1128,Cash,82.8,20,Aarti Kulkarni,Premium Wash,2025-02-25,Baner
+464,Mens,1393,Cash,55.68,2,Amit Patel,Laundry,2024-07-22,Balewadi
+799,Womens,1469,Cash,79.9,16,Hetal Desai,Premium Wash,2024-10-29,Sus
+420,Households,1403,Card,42.0,8,Amit Patel,Premium Wash,2024-06-20,Hinjewadi
+562,Womens,1311,Card,101.16,4,Aarti Kulkarni,Dry Cleaning,2024-12-27,Hinjewadi
+950,Households,1353,UPI,114.0,18,Rajesh Mehta,Laundry,2024-12-22,Baner
+673,Womens,1237,Online Payment,80.76,3,Rajesh Mehta,Laundry,2024-09-11,Balewadi
+595,Households,1115,Card,89.25,9,Nilesh Shinde,Ironing,2025-02-12,Hinjewadi
+798,Womens,1304,Online Payment,119.7,7,Kirit Joshi,Ironing,2025-03-19,Hinjewadi
+213,Mens,1391,UPI,38.34,20,Kirit Joshi,Dry Cleaning,2025-03-19,Balewadi
+602,Households,1484,Cash,72.24,7,Vikram Patil,Laundry,2025-02-13,Balewadi
+804,Households,1334,Card,120.6,3,Kirit Joshi,Ironing,2024-10-08,Baner
+369,Households,1117,Online Payment,44.28,11,Kirit Joshi,Laundry,2024-10-22,Balewadi
+241,Households,1164,Card,36.15,3,Hetal Desai,Ironing,2024-09-04,Baner
+718,Mens,1168,Card,129.24,11,Amit Patel,Dry Cleaning,2024-06-06,Balewadi
+144,Womens,1222,Online Payment,21.6,14,Kirit Joshi,Ironing,2024-08-14,Baner
+235,Households,1175,Cash,35.25,9,Kirit Joshi,Ironing,2024-06-05,Baner
+622,Households,1333,Cash,93.3,4,Nirali Shah,Ironing,2025-03-21,Hinjewadi
+415,Womens,1215,Cash,49.8,15,Suresh Jadhav,Laundry,2024-07-05,Baner
+277,Households,1083,Card,33.24,10,Smita Deshmukh,Laundry,2024-08-23,Hinjewadi
+579,Womens,1452,UPI,104.22,20,Vikram Patil,Dry Cleaning,2024-06-02,Baner
+348,Mens,1267,Cash,34.8,19,Nirali Shah,Premium Wash,2025-01-24,Baner
+237,Womens,1124,Card,23.7,16,Vikram Patil,Premium Wash,2025-02-26,Hinjewadi
+813,Households,1248,Card,146.34,19,Suresh Jadhav,Dry Cleaning,2024-10-14,Balewadi
+475,Mens,1409,Cash,71.25,8,Smita Deshmukh,Ironing,2024-08-27,Sus
+496,Households,1183,Cash,49.6,9,Nilesh Shinde,Premium Wash,2024-09-21,Baner
+214,Mens,1382,Cash,38.52,2,Kirit Joshi,Dry Cleaning,2025-02-07,Balewadi
+109,Mens,1152,Cash,13.08,12,Rajesh Mehta,Laundry,2024-07-01,Sus
+614,Households,1216,Online Payment,92.1,9,Rajesh Mehta,Ironing,2024-07-29,Hinjewadi
+512,Households,1307,Cash,76.8,10,Kirit Joshi,Ironing,2024-11-15,Balewadi
+594,Mens,1297,Card,59.4,4,Nilesh Shinde,Premium Wash,2024-07-15,Hinjewadi
+101,Mens,1123,Online Payment,18.18,12,Kirit Joshi,Dry Cleaning,2025-02-12,Balewadi
+751,Mens,1337,Online Payment,135.18,18,Hetal Desai,Dry Cleaning,2025-02-08,Baner
+235,Households,1356,Card,35.25,19,Nirali Shah,Ironing,2024-10-05,Balewadi
+814,Womens,1497,UPI,122.1,10,Nilesh Shinde,Ironing,2024-12-25,Balewadi
+945,Mens,1063,Online Payment,141.75,2,Rajesh Mehta,Ironing,2024-08-19,Mahalunge
+599,Womens,1474,UPI,89.85,16,Hetal Desai,Ironing,2024-06-26,Hinjewadi
+341,Womens,1217,Cash,61.38,13,Aarti Kulkarni,Dry Cleaning,2025-01-14,Mahalunge
+951,Mens,1260,Cash,171.18,6,Kirit Joshi,Dry Cleaning,2024-10-01,Mahalunge
+149,Womens,1342,Cash,22.35,20,Amit Patel,Ironing,2024-12-11,Mahalunge
+763,Mens,1367,UPI,91.56,4,Vikram Patil,Laundry,2024-11-26,Mahalunge
+374,Womens,1475,UPI,56.1,3,Rajesh Mehta,Ironing,2024-07-16,Mahalunge
+618,Womens,1301,Card,111.24,6,Rajesh Mehta,Dry Cleaning,2024-09-23,Balewadi
+887,Households,1158,Cash,106.44,12,Vikram Patil,Laundry,2024-07-01,Mahalunge
+765,Mens,1423,Cash,76.5,16,Amit Patel,Premium Wash,2025-02-28,Baner
+411,Mens,1361,UPI,61.65,4,Kirit Joshi,Ironing,2024-08-15,Balewadi
+753,Households,1437,Card,90.36,3,Hetal Desai,Laundry,2024-09-17,Balewadi
+219,Households,1370,Cash,32.85,2,Nilesh Shinde,Ironing,2024-08-18,Hinjewadi
+779,Womens,1306,Online Payment,116.85,13,Suresh Jadhav,Ironing,2024-09-19,Mahalunge
+307,Womens,1008,Card,46.05,5,Nirali Shah,Ironing,2024-11-26,Hinjewadi
+947,Households,1294,Card,170.46,5,Nirali Shah,Dry Cleaning,2024-12-13,Mahalunge
+559,Households,1093,Card,83.85,17,Hetal Desai,Ironing,2024-09-18,Balewadi
+982,Womens,1043,Online Payment,98.2,19,Vikram Patil,Premium Wash,2024-12-25,Mahalunge
+124,Womens,1200,Online Payment,18.6,18,Suresh Jadhav,Ironing,2024-09-16,Balewadi
+342,Households,1299,Card,34.2,3,Nirali Shah,Premium Wash,2025-01-15,Mahalunge
+499,Households,1151,Cash,74.85,2,Nilesh Shinde,Ironing,2024-09-20,Mahalunge
+291,Womens,1135,Online Payment,43.65,19,Nirali Shah,Ironing,2025-03-17,Hinjewadi
+355,Womens,1073,Cash,42.6,5,Nirali Shah,Laundry,2024-06-13,Balewadi
+654,Households,1250,Card,98.1,9,Amit Patel,Ironing,2024-10-07,Balewadi
+887,Households,1028,Card,88.7,15,Aarti Kulkarni,Premium Wash,2024-10-21,Balewadi
+483,Households,1282,Cash,86.94,16,Amit Patel,Dry Cleaning,2024-06-29,Balewadi
+887,Households,1028,Card,88.7,15,Aarti Kulkarni,Premium Wash,2025-01-01,Balewadi
+762,Mens,1336,Cash,114.3,18,Suresh Jadhav,Ironing,2024-08-30,Balewadi
+571,Mens,1324,Cash,85.65,6,Rajesh Mehta,Ironing,2024-08-07,Balewadi
+202,Womens,1381,Card,20.2,1,Vikram Patil,Premium Wash,2025-02-14,Baner
+602,Households,1351,Card,108.36,19,Hetal Desai,Dry Cleaning,2025-02-12,Hinjewadi
+510,Households,1034,Card,51.0,17,Smita Deshmukh,Premium Wash,2024-07-25,Baner
+963,Households,1094,Online Payment,144.45,14,Nilesh Shinde,Ironing,2025-02-04,Balewadi
+817,Households,1341,Card,122.55,12,Rajesh Mehta,Ironing,2025-02-12,Mahalunge
+447,Households,1061,Online Payment,44.7,13,Kirit Joshi,Premium Wash,2024-12-11,Mahalunge
+599,Womens,1474,UPI,89.85,16,Hetal Desai,Ironing,2025-01-01,Hinjewadi
+366,Womens,1322,Cash,65.88,1,Nirali Shah,Dry Cleaning,2025-03-02,Baner
+213,Mens,1391,UPI,38.34,20,Kirit Joshi,Dry Cleaning,2024-10-18,Balewadi
+307,Womens,1314,Online Payment,55.26,17,Rajesh Mehta,Dry Cleaning,2024-08-19,Mahalunge
+429,Mens,1184,Cash,64.35,5,Nirali Shah,Ironing,2024-09-27,Mahalunge
+736,Households,1448,UPI,110.4,12,Aarti Kulkarni,Ironing,2024-10-15,Balewadi
+219,Households,1370,Cash,32.85,2,Nilesh Shinde,Ironing,2025-02-28,Hinjewadi
+348,Households,1077,Cash,34.8,10,Rajesh Mehta,Premium Wash,2024-12-04,Hinjewadi
+124,Womens,1483,UPI,14.88,15,Nirali Shah,Laundry,2024-09-02,Baner
+582,Households,1037,Cash,104.76,15,Vikram Patil,Dry Cleaning,2025-03-24,Balewadi
+908,Womens,1494,Card,108.96,16,Aarti Kulkarni,Laundry,2024-06-08,Balewadi
+953,Households,1406,UPI,95.3,3,Aarti Kulkarni,Premium Wash,2024-07-01,Mahalunge
